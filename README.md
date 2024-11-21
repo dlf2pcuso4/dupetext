@@ -1,0 +1,2 @@
+# dupetext
+dupes text
